@@ -1,0 +1,5 @@
+#backend node moudules
+backend/node_modules
+
+#frontend node moudules
+frontend/node_modules
